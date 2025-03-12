@@ -1,0 +1,31 @@
+var DATABASE = `
+TIMELINE OF THE FAR FUTURE
+  SRCE : Wikipedia
+  LINK : https://en.m.wikipedia.org/wiki/Timeline_of_the_far_future
+  TYPE : article
+  DATE : 2025-03-06
+  TAGS : science, wikipedia
+  QOTE : 'A good start for those Wikipedia rabbit hole nights.'
+  DONE : false
+  REVI : false
+
+LIST OF UNSOLVED PROBLEMS
+  SRCE : Wikipedia
+  LINK : https://en.m.wikipedia.org/wiki/Lists_of_unsolved_problems
+  TYPE : article
+  DATE : 2025-03-06
+  TAGS : science, wikipedia
+  QOTE : 'Another gateway to the Wikipedia pit.'
+  DONE : false
+  REVI : false
+
+DAD JOKES
+  SRCE : Misc
+  LINK : https://www.fatherhood.gov/for-dads/dad-jokes
+  TYPE : Misc
+  Date : 2025-03-06
+  TAGS : interactive
+  QOTE : The US government (for some reasons) has a database of dad jokes.
+  DONE : true
+  REVI : false
+`
