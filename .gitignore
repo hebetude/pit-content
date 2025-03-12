@@ -1,1 +1,5 @@
-settings.js
+content/media/*.pdf
+content/media/*.zip
+content/media/*.rar
+content/media/*.html
+content/media/*.mobi
