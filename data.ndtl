@@ -1,21 +1,371 @@
 var DATABASE = `
-TIMELINE OF THE FAR FUTURE
-  SRCE : Wikipedia
-  LINK : https://en.m.wikipedia.org/wiki/Timeline_of_the_far_future
+WIKIPEDIA PAGE VIEWS BY CATEGORY
+  SRCE : Telegram
+  LINK : https://pageviews.wmcloud.org/massviews//
   TYPE : article
-  DATE : 2025-03-06
-  TAGS : science, wikipedia
-  QOTE : 'A good start for those Wikipedia rabbit hole nights.'
+  DATE : 2024-06-14
+  TAGS : wikipedia, data
+  QOTE : 'You can see page views for Wikipedia pages under different categories here.'
   DONE : false
   REVI : false
 
-LIST OF UNSOLVED PROBLEMS
-  SRCE : Wikipedia
+THE ART STORY
+  SRCE : Telegram
+  LINK : http://theartstory.org/
+  TYPE : article
+  DATE : 2024-06-17
+  TAGS : art
+  QOTE : 'Read about some painters at TheArtStory.'
+  DONE : false
+  REVI : false
+
+TIMELINE OF THE FAR FUTURE
+  SRCE : Telegram
+  LINK : https://en.m.wikipedia.org/wiki/Timeline_of_the_far_future
+  TYPE : article
+  DATE : 2024-06-19
+  TAGS : wikipedia
+  QOTE : 'A timeline of the far future on Wikipedia.'
+  DONE : false
+  REVI : false
+
+LISTS OF UNSOLVED PROBLEMS
+  SRCE : Telegram
   LINK : https://en.m.wikipedia.org/wiki/Lists_of_unsolved_problems
   TYPE : article
-  DATE : 2025-03-06
-  TAGS : science, wikipedia
-  QOTE : 'Another gateway to the Wikipedia pit.'
+  DATE : 2024-06-19
+  TAGS : wikipedia
+  QOTE : 'And a super cool list of unsolved problems to scroll through some day and definitely solve.'
+  DONE : false
+  REVI : false
+
+COLORING PUZZLES
+  SRCE : Telegram
+  LINK : https://www.rahulilango.com/coloring/
+  TYPE : article
+  DATE : 2024-06-25
+  TAGS : math, puzzles
+  QOTE : 'Meet some cool math problems in the form of some cool puzzles here.'
+  DONE : false
+  REVI : false
+
+THE FINAL SPEECH OF SALVADOR ALLENDE
+  SRCE : Telegram
+  LINK : https://www.youtube.com/watch?v=D3yu_McuFXc
+  TYPE : article
+  DATE : 2024-06-25
+  TAGS : video, speech
+  QOTE : 'There\'s always just something compelling about final speeches and this is a good one. Interesting split in the comments, too.'
+  DONE : false
+  REVI : false
+
+GUY TALKING ABOUT FIRE CODES
+  SRCE : Telegram
+  LINK : https://www.youtube.com/watch?v=CtHpiNBzPsk
+  TYPE : article
+  DATE : 2024-06-26
+  TAGS : video
+  QOTE : 'A guy talks about fire codes for 2 hours and it\'s somehow one of the better ways I\'ve spent my time.'
+  DONE : false
+  REVI : false
+
+CURSOR MUSEUM
+  SRCE : Telegram
+  LINK : https://cursormuseum.com/
+  TYPE : article
+  DATE : 2024-07-02
+  TAGS : technology, history
+  QOTE : 'Ancient cursor technology here.'
+  DONE : false
+  REVI : false
+
+TRADLE
+  SRCE : Telegram
+  LINK : https://oec.world/en/games/tradle
+  TYPE : article
+  DATE : 2024-07-07
+  TAGS : game, economics
+  QOTE : 'Wordle but economics.'
+  DONE : false
+  REVI : false
+
+DISCORD IS MORALLY LAZY
+  SRCE : Telegram
+  LINK : http://ascii.textfiles.com/archives/5509
+  TYPE : article
+  DATE : 2024-07-08
+  TAGS : technology, critique
+  QOTE : 'Discord bad. Here\'s some guy ranting about it.'
+  DONE : false
+  REVI : false
+
+USING DISCORD IS MORALLY LAZY. AGAIN.
+  SRCE : Telegram
+  LINK : https://j3s.sh/thought/using-discord-is-morally-lazy.html
+  TYPE : article
+  DATE : 2024-07-08
+  TAGS : technology, critique
+  QOTE : 'Here\'s another.'
+  DONE : false
+  REVI : false
+
+WORDWARD DRAW
+  SRCE : Telegram
+  LINK : https://managore.itch.io/wordward-draw
+  TYPE : article
+  DATE : 2024-07-09
+  TAGS : game, words
+  QOTE : 'Here\'s a pretty fun word game. Kind of harder than it looks.'
+  DONE : false
+  REVI : false
+
+WHAT BEATS ROCK
+  SRCE : Telegram
+  LINK : https://www.whatbeatsrock.com/
+  TYPE : article
+  DATE : 2024-07-23
+  TAGS : game, puzzles
+  QOTE : 'Another game. How far can you take your rock-paper-scissors logic?'
+  DONE : false
+  REVI : false
+
+YOUTUBE TV
+  SRCE : Telegram
+  LINK : https://ytch.xyz/
+  TYPE : article
+  DATE : 2024-08-14
+  TAGS : video
+  QOTE : 'Youtube TV'
+  DONE : false
+  REVI : false
+
+WINDOW SWAP
+  SRCE : Telegram
+  LINK : https://www.window-swap.com/
+  TYPE : article
+  DATE : 2024-08-23
+  TAGS : game
+  QOTE : 'Ideally you\'d go outside, but this is a good alternative.'
+  DONE : false
+  REVI : false
+
+CENSORSHIP IN THE BIG BANG THEORY
+  SRCE : Telegram
+  LINK : https://pudding.cool/2022/08/censorship/
+  TYPE : article
+  DATE : 2024-08-31
+  TAGS : censorship, culture
+  QOTE : 'Censorship! Someone does a big comparison of censorship in The Big Bang Theory in China, this unfortunately did not make the show any funnier.'
+  DONE : false
+  REVI : false
+
+A LIVESTREAM OF A NAMIB DESERT WATERING HOLE
+  SRCE : Telegram
+  LINK : https://www.youtube.com/watch?v=ydYDqZQpim8
+  TYPE : article
+  DATE : 2024-09-02
+  TAGS : nature, livestream
+  QOTE : 'Here\'s a live stream of a watering hole in the Namid desert.'
+  DONE : false
+  REVI : false
+
+BULWER LYTTON FICTION CONTEST
+  SRCE : Telegram
+  LINK : https://www.bulwer-lytton.com/winners
+  TYPE : article
+  DATE : 2024-09-07
+  TAGS : writing
+  QOTE : 'As per Wikipedia, The Bulwer-Lytton Fiction Contest is "a tongue-in-cheek contest [where] entrants are invited \'to compose the opening sentence to the worst of all possible novels\' – that is, one which is deliberately bad." You can read the winners starting from 1996 here.'
+  DONE : false
+  REVI : false
+
+VISUALIZATION OF SHIPS SUNK DURING WW2
+  SRCE : Telegram
+  LINK : https://storymaps.arcgis.com/stories/41d4bd6029044afbb1b9ad805a4731d8
+  TYPE : article
+  DATE : 2024-09-13
+  TAGS : history, visualization
+  QOTE : 'Really cool visualization of every ship sunk during the course of The Second World War. Viewing on PC is recommended.'
+  DONE : false
+  REVI : false
+
+WW2 SHIP SINKINGS DATASET
+  SRCE : Telegram
+  LINK : https://mapsterman.maps.arcgis.com/apps/dashboards/fe88b5e18c6443c7afaf6e32f8432687
+  TYPE : article
+  DATE : 2024-09-13
+  TAGS : history, data
+  QOTE : 'Also checkout the linked dataset.'
+  DONE : false
+  REVI : false
+
+THE UNTHINKABILITY OF SLAVE REVOLT
+  SRCE : Telegram
+  LINK : https://mondoweiss.net/2024/02/the-unthinkability-of-slave-revolt/
+  TYPE : article, imperialism
+  DATE : 2024-09-15
+  TAGS : politics, history
+  QOTE : 'Article that\'s weirdly relevant at the moment - re: Haiti, Palestine and the like.'
+  DONE : false
+  REVI : false
+
+THE WASTE STREAM OF CONSUMER FINANCE
+  SRCE : Telegram
+  LINK : https://www.bitsaboutmoney.com/archive/the-waste-stream-of-consumer-finance/
+  TYPE : article
+  DATE : 2024-09-15
+  TAGS : capitalism, critique
+  QOTE : 'And more reasons to hate the entire financial system and some tips for if you somehow default on credit card debt in the US. Also check out the rest of the guy\'s writings.'
+  DONE : false
+  REVI : false
+
+TREE VISUALIZATION TECHNIQUES
+  SRCE : Telegram
+  LINK : https://treevis.net/
+  TYPE : article
+  DATE : 2024-09-29
+  TAGS : visualization
+  QOTE : 'Here\'s bunch of tree visualization techniques.'
+  DONE : false
+  REVI : false
+
+NOISE GENERATOR
+  SRCE : Telegram
+  LINK : https://noise.jake.fun/
+  TYPE : article
+  DATE : 2024-10-16
+  TAGS : audio, tool
+  QOTE : 'Make some noise.'
+  DONE : false
+  REVI : false
+
+JAKE FUN SITE
+  SRCE : Telegram
+  LINK : http://jake.fun/
+  TYPE : article
+  DATE : 2024-10-16
+  TAGS : tool
+  QOTE : 'Also just explore the rest of the site.'
+  DONE : false
+  REVI : false
+
+DISAPPEARING SOUNDS
+  SRCE : Telegram
+  LINK : https://citiesandmemory.com/obsolete-sounds/
+  TYPE : article
+  DATE : 2024-10-24
+  TAGS : audio, history
+  QOTE : 'Listen to some disappearing sounds. There\'s also a flushing toilet there and I don\'t know the implications of that.'
+  DONE : false
+  REVI : false
+
+MORSLE
+  SRCE : Telegram
+  LINK : https://morsle.fun/
+  TYPE : article
+  DATE : 2024-10-29
+  TAGS : game, morse
+  QOTE : 'Another Wordle inspired game: Morsle. The practice may come in handy if you\'re ever held hostage or something.'
+  DONE : false
+  REVI : false
+
+US CHEMICAL SAFETY BOARD
+  SRCE : Telegram
+  LINK : https://www.youtube.com/@USCSB/videos
+  TYPE : article
+  DATE : 2024-10-30
+  TAGS : video, science
+  QOTE : 'Somewhat well known, but the United States Chemical Safety Board has a YouTube channel where they post surprisingly cool videos about chemical disasters and the like.'
+  DONE : false
+  REVI : false
+
+THE PURITANICAL EYE
+  SRCE : Telegram
+  LINK : https://specchioscuro.it/the-puritanical-eye-hyper-mediation-sex-on-film-and-the-disavowal-of-desire/
+  TYPE : article
+  DATE : 2024-11-03
+  TAGS : film, critique
+  QOTE : 'Modern movies aren\'t horny enough and capitalism is the reason. I\'m late to the party with this one, I realize.'
+  DONE : false
+  REVI : false
+
+INATURALIST
+  SRCE : Telegram
+  LINK : https://www.inaturalist.org/
+  TYPE : article
+  DATE : 2024-11-09
+  TAGS : science, nature
+  QOTE : 'Cool project where you can document observations of plants/animals/insects/whatever and also contribute to science. Both a website and app.'
+  DONE : false
+  REVI : false
+
+SAY THE PRIME
+  SRCE : Telegram
+  LINK : https://saytheprime.com/
+  TYPE : article
+  DATE : 2024-11-09
+  TAGS : math, video
+  QOTE : 'On the note of contributing to science, join thousands of other people in saying the largest currently known prime number. There\'s no point whatsoever in doing this, but there\'s also no reason not to do it.'
+  DONE : false
+  REVI : false
+
+PHOTOGRAPHY COMPOSITION GUIDE
+  SRCE : Telegram
+  LINK : https://antongorlin.com/blog/photography-composition-definitive-guide/
+  TYPE : article
+  DATE : 2024-11-18
+  TAGS : photography, reference
+  QOTE : 'Very accessible (though somewhat long) guide to photo composition. Probably warrants a few visits.'
+  DONE : false
+  REVI : false
+
+PRINCETON INDEX OF MEDIEVAL ART
+  SRCE : Telegram
+  LINK : https://theindex.princeton.edu/
+  TYPE : article
+  DATE : 2025-02-05
+  TAGS : art, history, index
+  QOTE : 'I love indexes so much and this one is a very complete one for medieval art. Peruse and see.'
+  DONE : false
+  REVI : false
+
+THEY SEE YOUR PHOTOS
+  SRCE : Telegram
+  LINK : https://theyseeyourphotos.com/
+  TYPE : article
+  DATE : 2025-03-09
+  TAGS : ai, privacy
+  QOTE : 'Perhaps don\'t send your own photos or your friends\', but it\'s interesting to send a celebrity or something and see what this AI infers.'
+  DONE : false
+  REVI : false
+
+TENOCHTITLAN RECONSTRUCTION
+  SRCE : Telegram
+  LINK : https://tenochtitlan.thomaskole.nl/
+  TYPE : article
+  DATE : 2025-04-20
+  TAGS : history, visualization
+  QOTE : 'Here\'s a pretty well-referenced reconstruction of the city of Tenochtitlan. The complete disappearance of the lake is also pretty incredible to see.'
+  DONE : false
+  REVI : false
+
+ANARCHIST CALISTHENICS
+  SRCE : Telegram
+  LINK : https://harpers.org/archive/2012/12/anarchist-calisthenics/
+  TYPE : article
+  DATE : 2025-05-07
+  TAGS : politics, philosophy
+  QOTE : 'Anarchist Calisthenics or: Jaywalking is Pretty Good Actually'
+  DONE : false
+  REVI : false
+
+JOHN BROWN LAST NOTE
+  SRCE : Telegram
+  LINK : https://www.marxists.org/archive/brown-john/1859/last-note.htm
+  TYPE : article
+  DATE : 2025-06-19
+  TAGS : history, politics
+  QOTE : 'One of the hardest lines ever put to paper: "I, John Brown, am now quite certain that the crimes of this guilty land will never be purged away but with blood. I had, as I now think vainly, flattered myself that without very much bloodshed it might be done."'
   DONE : false
   REVI : false
 `
